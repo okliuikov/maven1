@@ -15,6 +15,7 @@ class MessageServiceTest {
     void testSomethingVerySimpleButMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleMultipleTimes(int number) {
         assertEquals("Hello JUnit 5", "Hello JUnit " + number);
         // a change
+        // a change #2
     }
 
     @Test
